@@ -32,9 +32,9 @@ void display()
 
 	//DrawCircRing(0, 0, 1, 100);
 	//DrawCircTrunCone(0, 0, 0.5, 1, 0.6, 30);
-	//DrawSphere(0, 0, 0, 0.8, 0,  Pi, 20, 30);
+	DrawSphere(0, 0, 0, 0.8, 0,  Pi, 20, 30);
 	//DrawCircRing3D(0, 0, 0, 0.7, 0.3, 0, 2 * Pi, 50, 36);
-	DrawSpring3D(0, 0, -0.5, 0.3, 0.8, 3.2, 0.05, 72, 10);
+	//DrawSpring3D(0, 0, -0.5, 0.3, 0.8, 3.2, 0.05, 72, 10);
 	glFlush();
 }
 
